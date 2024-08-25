@@ -1,0 +1,17 @@
+D:\CarHandler\CarHandler.Infrastructure\bin\Debug\net8.0\CarHandler.Infrastructure.deps.json
+D:\CarHandler\CarHandler.Infrastructure\bin\Debug\net8.0\CarHandler.Infrastructure.dll
+D:\CarHandler\CarHandler.Infrastructure\bin\Debug\net8.0\CarHandler.Infrastructure.pdb
+D:\CarHandler\CarHandler.Infrastructure\bin\Debug\net8.0\CarHandler.Domain.dll
+D:\CarHandler\CarHandler.Infrastructure\bin\Debug\net8.0\CarHandler.Domain.pdb
+D:\CarHandler\CarHandler.Infrastructure\obj\Debug\net8.0\CarHandler.Infrastructure.csproj.AssemblyReference.cache
+D:\CarHandler\CarHandler.Infrastructure\obj\Debug\net8.0\CarHandler.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CarHandler\CarHandler.Infrastructure\obj\Debug\net8.0\CarHandler.Infrastructure.AssemblyInfoInputs.cache
+D:\CarHandler\CarHandler.Infrastructure\obj\Debug\net8.0\CarHandler.Infrastructure.AssemblyInfo.cs
+D:\CarHandler\CarHandler.Infrastructure\obj\Debug\net8.0\CarHandler.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CarHandler\CarHandler.Infrastructure\obj\Debug\net8.0\CarHandl.F0C7BDD4.Up2Date
+D:\CarHandler\CarHandler.Infrastructure\obj\Debug\net8.0\CarHandler.Infrastructure.dll
+D:\CarHandler\CarHandler.Infrastructure\obj\Debug\net8.0\refint\CarHandler.Infrastructure.dll
+D:\CarHandler\CarHandler.Infrastructure\obj\Debug\net8.0\CarHandler.Infrastructure.pdb
+D:\CarHandler\CarHandler.Infrastructure\obj\Debug\net8.0\ref\CarHandler.Infrastructure.dll
+D:\CarHandler\CarHandler.Infrastructure\bin\Debug\net8.0\CarHandler.Infrastructure.runtimeconfig.json
+D:\CarHandler\CarHandler.Infrastructure\obj\Debug\net8.0\CarHandler.Infrastructure.genruntimeconfig.cache

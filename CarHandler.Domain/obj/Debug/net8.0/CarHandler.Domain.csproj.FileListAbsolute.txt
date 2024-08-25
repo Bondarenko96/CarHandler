@@ -1,0 +1,11 @@
+D:\CarHandler\CarHandler.Domain\bin\Debug\net8.0\CarHandler.Domain.deps.json
+D:\CarHandler\CarHandler.Domain\bin\Debug\net8.0\CarHandler.Domain.dll
+D:\CarHandler\CarHandler.Domain\bin\Debug\net8.0\CarHandler.Domain.pdb
+D:\CarHandler\CarHandler.Domain\obj\Debug\net8.0\CarHandler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CarHandler\CarHandler.Domain\obj\Debug\net8.0\CarHandler.Domain.AssemblyInfoInputs.cache
+D:\CarHandler\CarHandler.Domain\obj\Debug\net8.0\CarHandler.Domain.AssemblyInfo.cs
+D:\CarHandler\CarHandler.Domain\obj\Debug\net8.0\CarHandler.Domain.csproj.CoreCompileInputs.cache
+D:\CarHandler\CarHandler.Domain\obj\Debug\net8.0\CarHandler.Domain.dll
+D:\CarHandler\CarHandler.Domain\obj\Debug\net8.0\refint\CarHandler.Domain.dll
+D:\CarHandler\CarHandler.Domain\obj\Debug\net8.0\CarHandler.Domain.pdb
+D:\CarHandler\CarHandler.Domain\obj\Debug\net8.0\ref\CarHandler.Domain.dll
